@@ -1,10 +1,10 @@
 {
-  "name": "sudo-flix",
-  "short_name": "sudo-flix",
+  "name": "pasztetflix",
+  "short_name": "pasztetflix",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#120f1d",
-  "lang": "en",
+  "lang": "pl",
   "scope": "/",
   "description": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)",
   "theme_color": "#120f1d",
